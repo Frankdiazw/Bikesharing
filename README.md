@@ -13,6 +13,11 @@ The layout of Des Moines is far more rural than New York city, each with a popul
 For this analysis of the bike sharing data, several points to visualize were proposed in order to create a high-level analysis. The results were the following:
 
 - **Number of Trips**
+
+![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/NYC_citibike.png)
+
+Figure 1. Dashboard for the NYC Citi Bike trips
+
 - **Peak Riding Hours in August**
 - **Top Start Bike Stations and top End Bike Stations**
 - **Checkout Times**
