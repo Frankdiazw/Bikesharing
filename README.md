@@ -38,6 +38,10 @@ Figure 4. Line Graph of the check out times for user and gender.
 
 ### **Trips by Weekday for Each Hour**
 
+![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Trips_by_weekday_per_hour.png)
+
+Figure 5. Heatmap of the trips in each weekday per hour.
+
 ![](
 
 ### **User Trips by Gender by Weekday**
