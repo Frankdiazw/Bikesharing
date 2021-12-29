@@ -14,17 +14,30 @@ For this analysis of the bike sharing data, several points to visualize were pro
 
 ### **Number of Trips**
 
+For this result, a series of data were conglomerated that represent the total number of rides per category. First it can be seen that the total number of rides was 2,344,224.
+From this amount of rides, analyzing the pie chart, it can be seen that most of the customers who used this service were male.
+
+Then, the clients that lasted the longest using the service on average were born in the year 1970. Which means that by August 2020 they would be around 50 years old.
+All this determines that to put a similar service in Des Moines, Iowa. It is expected that most of the clients will be this age and gender.
+
 ![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/NYC_citibike.png)
 
 Figure 1. Dashboard for the NYC Citi Bike trips.
 
 ### **Peak Riding Hours in August**
 
+For this result, a horizontal bar graph was made that shows the relationship of the 24 hours of the day with respect to the number of trips that took place during the day.
+In the graph you can see that the time with the highest number of rides was at 5:00 p.m., followed by 6:00 p.m. This determines that for two hours a day a higher proportion of bicycle rental can be observed compared to the others.
+
+It can also be seen that the time with the fewest number of rides was at 3 and 4 in the morning respectively. This is expected since most people use these hours to be able to rest.
+
 ![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Peak_riding_hours_august.png)
 
 Figure 2. Graph of peak riding hours in the month of August.
 
 ### **Top Start Bike Stations and top End Bike Stations**
+
+
 
 ![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Top_Locations.png)
 
