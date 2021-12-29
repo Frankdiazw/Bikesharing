@@ -32,9 +32,14 @@ Figure 3. Map of the top start and end Bike stations.
 
 ### **Checkout Times**
 
-![](
+![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Checkout_times.png)
+
+Figure 4. Line Graph of the check out times for user and gender.
 
 ### **Trips by Weekday for Each Hour**
+
+![](
+
 ### **User Trips by Gender by Weekday**
 
 ## Summary
