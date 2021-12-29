@@ -48,7 +48,9 @@ Figure 6. Heatmap of the trips by gender per hour during a weekday.
 
 ### **User Trips by Gender by Weekday**
 
-![](
+![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/User_trips_by_gender_by_weekday.png)
+
+Figure 7. Heatmap of number of bike trips broken down by gender for each day of the week by each Usertype.
 
 ## Summary
 From this analysis we can understand that although New York and Des Moines are starkly different in size in population, there are some universal factors that can be implemented in both places:
