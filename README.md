@@ -20,3 +20,16 @@ For this analysis of the bike sharing data, several points to visualize were pro
 - **User Trips by Gender by Weekday**
 
 ## Summary
+From this analysis we can understand that although New York and Des Moines are starkly different in size in population, there are some universal factors that can be implemented in both places:
+
+- Bike service locations tend to be more active and popular in places where keeping a car is not financially economical
+- Affordability and availability plays a key factor in the concentration of bike ride starting points
+- Bikes are also used more actively in areas where the distances are smaller and and can be traversed by bike
+- Subscribers and Males tend to make a larger share of users as compared to customers and other genders
+- Early mornings (1 AM to 5 AM) are less busy and can be used to service or repair the bikes
+- The most popular rides were those of a shorter duration from a range of 5 to 11 minutes for all genders
+- Rush Hours and Weekends are more active time periods for rides
+- 8 AM, 5 PM and 6 PM were the most active hours in the data throughout the week
+- These trends followed similarly for all genders
+- Younger users generally travelled larger distances/ had longer trip durations
+- The most popular ride locations were in the heart of the city
