@@ -42,9 +42,13 @@ Figure 4. Line Graph of the check out times for user and gender.
 
 Figure 5. Heatmap of the trips in each weekday per hour.
 
-![](
+![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Trips_by_weekday_per_hour_gender.png)
+
+Figure 6. Heatmap of the trips by gender per hour during a weekday.
 
 ### **User Trips by Gender by Weekday**
+
+![](
 
 ## Summary
 From this analysis we can understand that although New York and Des Moines are starkly different in size in population, there are some universal factors that can be implemented in both places:
