@@ -25,6 +25,9 @@ Figure 1. Dashboard for the NYC Citi Bike trips.
 Figure 2. Graph of peak riding hours in the month of August.
 
 ### **Top Start Bike Stations and top End Bike Stations**
+
+![](
+
 ### **Checkout Times**
 ### **Trips by Weekday for Each Hour**
 ### **User Trips by Gender by Weekday**
