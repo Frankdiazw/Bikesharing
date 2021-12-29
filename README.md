@@ -26,9 +26,14 @@ Figure 2. Graph of peak riding hours in the month of August.
 
 ### **Top Start Bike Stations and top End Bike Stations**
 
-![](
+![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Top_Locations.png)
+
+Figure 3. Map of the top start and end Bike stations.
 
 ### **Checkout Times**
+
+![](
+
 ### **Trips by Weekday for Each Hour**
 ### **User Trips by Gender by Weekday**
 
