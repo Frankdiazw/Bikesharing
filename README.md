@@ -77,16 +77,6 @@ For Des Moines (215,636 habitants), somewhat similar results are expected, only 
 Figure 7. Heatmap of number of bike trips broken down by gender for each day of the week by each Usertype.
 
 ## Summary
-From this analysis we can understand that although New York and Des Moines are starkly different in size in population, there are some universal factors that can be implemented in both places:
+From this analysis we can understand that although New York and Des Moines are starkly different in size in population, there are some universal factors that can be implemented in both places. Understanding that the population of New York outcomes by far the population of Des Moines, means that the graphs and heatmaps will be different, but we can expect that the locations of the stations need to be in strategical and popular places where people can use the bike sharing service.
 
-- Bike service locations tend to be more active and popular in places where keeping a car is not financially economical
-- Affordability and availability plays a key factor in the concentration of bike ride starting points
-- Bikes are also used more actively in areas where the distances are smaller and and can be traversed by bike
-- Subscribers and Males tend to make a larger share of users as compared to customers and other genders
-- Early mornings (1 AM to 5 AM) are less busy and can be used to service or repair the bikes
-- The most popular rides were those of a shorter duration from a range of 5 to 11 minutes for all genders
-- Rush Hours and Weekends are more active time periods for rides
-- 8 AM, 5 PM and 6 PM were the most active hours in the data throughout the week
-- These trends followed similarly for all genders
-- Younger users generally travelled larger distances/ had longer trip durations
-- The most popular ride locations were in the heart of the city
+We can expect more male customers than other gender customers, and peak hours between 5:00 P.M. & 6 P.M. and minimum hours past 12 A.M. However this new service in Des Moines will be slower than in New York, we can expect good results if the company adjusts cuantity of bikes and stations to the city.
