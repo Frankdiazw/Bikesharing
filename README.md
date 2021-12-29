@@ -1,5 +1,7 @@
 # Bikesharing
 
+![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Bike-sharing.jpg)
+
 ## Overview of the statistical analysis
 New York City is known for being a very populated city (27,000 people per square mile), in consecuence, The Big Apple tops the list of most congested cities in the United States, with 102 lost hours in traffic in 2021. On a worldwide scale, New York City places fifth among the most congested cities. In order to avoid this traffic and also enjoy the view of the city, citizens of New York and outsiders tend to walk and ride a bike to get to their destinations, tour, etc.
 
