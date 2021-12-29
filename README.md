@@ -37,7 +37,7 @@ Figure 2. Graph of peak riding hours in the month of August.
 
 ### **Top Start Bike Stations and top End Bike Stations**
 
-
+For this result, in Des Moines the latitudes and longitudes of the bike stations must be obtained to determine future safe routes for customers and provide them with strategic locations so that they can obtain a quality route.
 
 ![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Top_Locations.png)
 
@@ -45,21 +45,32 @@ Figure 3. Map of the top start and end Bike stations.
 
 ### **Checkout Times**
 
+For this result, the graph of number of trips by duration show that the vast majority of trips taken on Citi Bike bikes are under an hour in length.
+
+Like it was mentioned above, the majority of customers turned to be male, it can be seen also in the graph that the male gender outcomes the other genders.
+
 ![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Checkout_times.png)
 
 Figure 4. Line Graph of the check out times for user and gender.
 
 ### **Trips by Weekday for Each Hour**
 
+As mentioned above, the peak hours for the rides were at 5:00 p.m. and 6:00 p.m. respectively. In this heat map, we can also observe that the darkest squares are reflected at 5:00 p.m. and 6:00 p.m., more specifically on Thursdays and later on Tuesdays.
+
 ![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Trips_by_weekday_per_hour.png)
 
 Figure 5. Heatmap of the trips in each weekday per hour.
+
+The map is now divided by male and female, and almost the same results are reflected as the previous heat map, only this time the dark color is reflected a little less in the women's heat map, this is due to that they consumed less service.
 
 ![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/Trips_by_weekday_per_hour_gender.png)
 
 Figure 6. Heatmap of the trips by gender per hour during a weekday.
 
 ### **User Trips by Gender by Weekday**
+
+In the same way, another heat map was created again, and this time they were divided by subscribers and customers. Almost the same results can be observed.
+For Des Moines (215,636 habitants), somewhat similar results are expected, only that the heat maps should be a little clearer, since fewer people live in that city than in New York (8,419 million habitants).
 
 ![](https://github.com/Frankdiazw/Bikesharing/blob/main/Images/User_trips_by_gender_by_weekday.png)
 
